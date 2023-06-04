@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "lab5AF_Cruz(AI)", "lab5AF_Cruz(AI).vbproj", "{C11A968C-6B09-44BA-968D-C5C76D2E6D56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C11A968C-6B09-44BA-968D-C5C76D2E6D56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C11A968C-6B09-44BA-968D-C5C76D2E6D56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C11A968C-6B09-44BA-968D-C5C76D2E6D56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C11A968C-6B09-44BA-968D-C5C76D2E6D56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {965F9031-2ED3-4273-B245-A571F8235EDD}
+	EndGlobalSection
+EndGlobal

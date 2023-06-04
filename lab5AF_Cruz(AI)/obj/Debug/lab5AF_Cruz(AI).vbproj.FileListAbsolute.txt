@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\lab5AF_Cruz(AI)\bin\Debug\lab5AF_Cruz(AI).exe.config
+C:\Users\User\source\repos\lab5AF_Cruz(AI)\bin\Debug\lab5AF_Cruz(AI).exe
+C:\Users\User\source\repos\lab5AF_Cruz(AI)\bin\Debug\lab5AF_Cruz(AI).pdb
+C:\Users\User\source\repos\lab5AF_Cruz(AI)\bin\Debug\lab5AF_Cruz(AI).xml
+C:\Users\User\source\repos\lab5AF_Cruz(AI)\obj\Debug\lab5AF_Cruz(AI).vbproj.AssemblyReference.cache
+C:\Users\User\source\repos\lab5AF_Cruz(AI)\obj\Debug\lab5AF_Cruz(AI).vbproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\lab5AF_Cruz(AI)\obj\Debug\lab5AF_Cruz_AI_.Form1.resources
+C:\Users\User\source\repos\lab5AF_Cruz(AI)\obj\Debug\lab5AF_Cruz_AI_.Resources.resources
+C:\Users\User\source\repos\lab5AF_Cruz(AI)\obj\Debug\lab5AF_Cruz(AI).vbproj.GenerateResource.cache
+C:\Users\User\source\repos\lab5AF_Cruz(AI)\obj\Debug\lab5AF_Cruz(AI).vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\lab5AF_Cruz(AI)\obj\Debug\lab5AF_Cruz(AI).exe
+C:\Users\User\source\repos\lab5AF_Cruz(AI)\obj\Debug\lab5AF_Cruz(AI).xml
+C:\Users\User\source\repos\lab5AF_Cruz(AI)\obj\Debug\lab5AF_Cruz(AI).pdb

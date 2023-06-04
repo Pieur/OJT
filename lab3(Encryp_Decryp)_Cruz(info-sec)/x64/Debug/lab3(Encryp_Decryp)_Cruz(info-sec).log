@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\User\source\repos\lab3(Encryp_Decryp)_Cruz(info-sec)\Source.cpp(40,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\source\repos\lab3(Encryp_Decryp)_Cruz(info-sec)\Source.cpp(44,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  lab3(Encryp_Decryp)_Cruz(info-sec).vcxproj -> C:\Users\User\source\repos\lab3(Encryp_Decryp)_Cruz(info-sec)\x64\Debug\lab3(Encryp_Decryp)_Cruz(info-sec).exe
